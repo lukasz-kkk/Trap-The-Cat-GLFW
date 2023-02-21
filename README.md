@@ -1,7 +1,7 @@
 # Trap-The-Cat-GLFW
 Trap The Cat game remake written in GLFW
 ### Download
-
+[Download .exe](https://github.com/lukasz-kkk/Trap-The-Cat-GLFW/releases/tag/v1.0)
 ### Screenshot
 ![Screenshot](https://i.imgur.com/1v3VjaI.png)
 
@@ -11,7 +11,7 @@ The goal of this game is to trap the cat and prevent him from escaping from the 
 - Use the mouse button to block the escape path
 - Press ESC to quit the game
 ### Coding Environment
--Win10(x64) + VS2019
+- Win10(x64) + VS2019
 ### 3rd Party Libraries (not included)
 - GLFW
 - GLM
