@@ -1,6 +1,7 @@
 # Trap-The-Cat-GLFW
 Trap The Cat game remake written in GLFW
 
+![Screenshot](https://i.imgur.com/1v3VjaI.png)
 
 ### Download
 ### Rules
