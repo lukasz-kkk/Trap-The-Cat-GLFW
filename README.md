@@ -12,7 +12,7 @@ The goal of this game is to trap the cat and prevent him from escaping from the 
 - Press ESC to quit the game
 ### Coding Environment
 -Win10(x64) + VS2019
-### 3rd Party Library (not included)
+### 3rd Party Libraries (not included)
 - GLFW
 - GLM
 - GLAD
