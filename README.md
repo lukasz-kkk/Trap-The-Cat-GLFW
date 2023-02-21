@@ -19,5 +19,5 @@ The goal of this game is to trap the cat and prevent him from escaping from the 
 - STB_IMAGE
 
 ### Images used were created by:
-##### Lonnie Buckridge picpng.com
+##### Lonnie Buckridge - picpng.com
 ##### upklyak - freepik.com
