@@ -13,7 +13,7 @@ The goal of this game is to trap the cat and prevent him from escaping from the 
 ### Coding Environment
 - Win10(x64) + VS2019
 ### 3rd Party Libraries (not included)
-- OPENGL
+- OpenGL
 - GLFW
 - GLM
 - GLAD
