@@ -1,7 +1,6 @@
 # Trap-The-Cat-GLFW
 Trap The Cat game remake written in GLFW.
-### Download
-[Download zip](https://github.com/lukasz-kkk/Trap-The-Cat-GLFW/releases/tag/v1.0) and extract files.
+
 ### Screenshot
 ![Screenshot](https://i.imgur.com/1v3VjaI.png)
 
